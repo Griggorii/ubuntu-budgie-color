@@ -1,3 +1,3 @@
 # ubuntu-budgie-color
 ubuntu budgie color
-paste in /etc/xdg
+root sudo su optional system : folder xdg-budgie-desktop copy paste in /etc/xdg
